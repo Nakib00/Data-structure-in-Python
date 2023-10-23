@@ -1,7 +1,8 @@
-1.Linear search
-2.Binary search
-3.Merge sort
-4.Quick sort
-5.Bubble sort
-6.Count Occurrencess
-7.Remove Duplicates
+#Linear search
+#Binary search
+#Bubble sort
+#Insertion sort
+#Selections sort
+#Quick sort
+#Merge sort
+#Remove Duplicates
